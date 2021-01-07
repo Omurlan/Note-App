@@ -1,0 +1,1 @@
+export const FIREBASE_API = 'https://app-todo-75a0f-default-rtdb.firebaseio.com'
